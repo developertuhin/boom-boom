@@ -4,8 +4,9 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCoffee,faPlus } from '@fortawesome/free-solid-svg-icons';
 
 const Player = (props) => {
-    // console.log(props);
-    const {name,salary,email,image} =props;
+    
+    const {name,salary,email,image} =props.player;
+    const handlePlayer = props.handlePlayer;
   return (
     <div className='player-card'>
      <div>
@@ -15,7 +16,7 @@ const Player = (props) => {
         <h2>Name:{name}</h2>
         <h3>Salary : {salary}</h3>
         <h4>Email : {email}</h4>
-        <button onClick={()=>props.handlePlayer(props.player)} className='button'><FontAwesomeIcon icon={faPlus} style={{marginRight:'10px'}}/>Select</button>
+        <button onClick={()=>handlePlayer(props.player)} className='button'><FontAwesomeIcon icon={faPlus} style={{marginRight:'10px'}}/>Select</button>
       </div>
      
     </div>

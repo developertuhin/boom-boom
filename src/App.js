@@ -6,16 +6,16 @@ import { useState} from 'react';
 import Cart from './components/Cart';
 
 function App() {
-
+// UseState declaration--
   const [player,setPlayer] = useState([])
   const [cart, setCart] = useState([])
 
+// Button Handler--
 const handlePlayer = (players) => {
-// console.log("Addeded");
-console.log(players);
   const newCart =[...cart,players];
-  // console.log(cart);
   setCart(newCart);
+  console.log(players);
+
 }
   return (
     <div className="App" >
@@ -25,19 +25,17 @@ console.log(players);
       <div className="player-container">
       {
           playerData.map((player) => 
-          <Player 
+          <Player
 
           handlePlayer={handlePlayer}
-          image={player.image} 
-          name ={player.name} 
-          salary ={player.salary} 
-          email ={player.email}>
+          player={player}>
+         
           
           </Player>)
         }
       </div>
      <div className="selected-container">
-     <Cart addedPlayer ={cart.length} ></Cart>
+     <Cart cart={cart} ></Cart>
     
      </div>
       </div>

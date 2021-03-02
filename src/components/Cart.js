@@ -2,12 +2,25 @@ import React from 'react';
 
 const Cart = (props) => {
     // console.log(props);
+    const cart = props.cart;
     return (
         <div>
-            <h3>Player Details: </h3>
-            <h1>Player Added : {props.addedPlayer}</h1>
-            <h1>Name: </h1>
-            <h2>Salary: {}</h2>
+            <h1 style={{color:'red'}}>Player Details </h1>
+            <h2>Player Added : {props.cart.length}</h2>
+            {
+                cart.map((c)=> {
+                    return ( 
+                        <div>
+                            <h3>Name: {c.name}</h3>
+                            <p>Salary: {c.salary}</p>
+                        </div>
+                     )
+                            
+
+                })
+            }
+           
+            
         </div>
     );
 };

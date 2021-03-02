@@ -17,3 +17,9 @@
     border: none;
     
 }
+.selected-container{
+    border: 3px solid rgb(161, 181, 238);
+    padding: 20px;
+    margin: 30px;
+    
+}
