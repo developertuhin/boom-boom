@@ -3,89 +3,89 @@
     "name": "Mashrafee Bin Mortaza",
     "image": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/masrafe-bin-mortaza-ban.ashx",
     "email": "mashrafee@gmail.com",
-    "salary": "290000"
+    "salary": 290000
   }, {
     "id": 2,
     "name": "Shakib Al Hasan",
     "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170912/shakib-al-hasan.jpg",
     "email": "shakib@gmail.com",
-    "salary": "285000"
+    "salary": 285000
   }, {
     "id": 3,
     "name": "Mushfiqur Rahim",
     "image": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Mushfiqur-Rahim-CWC19.ashx",
     "email": "mushfiqur@yahoo.com",
-    "salary": "277000"
+    "salary": 277000
   }, {
     "id": 4,
     "name": "Mohammad Ashraful",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRynj947yCzL2xzcjDOTlWj7i4BaetBE0V06A&usqp=CAU",
     "email": "ashraful@hotmail.com",
-    "salary": "205000"
+    "salary": 205000
   }, {
     "id": 5,
     "name": "Mahmudullah Riad",
     "image": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Mahmudullah-CWC19.ashx",
     "email": "mahmudullah@yahoo.com",
-    "salary": "278000"
+    "salary": 278000
   }, {
     "id": 6,
     "name": "Rubel Hosain",
     "image": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Rubel-Hossain-CWC19.ashx",
     "email": "rooble5@weibo.com",
-    "salary": "234000"
+    "salary": 234000
   }, {
     "id": 7,
     "name": "Tamim Ikbal",
     "image": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Tamim-Iqbal-CWC19.ashx",
     "email": "tamimiqbal@gmail.com",
-    "salary": "280000"
+    "salary": 280000
   }, {
     "id": 8,
     "name": "Somya Sarkar",
     "image": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Soumya-Sarkar-CWC19.ashx",
     "email": "somyasarkar@imdb.com",
-    "salary": "255000"
+    "salary": 255000
   }, {
     "id": 9,
     "name": "Mustafizur Rahman",
     "image": "https://resources.pulse.icc-cricket.com/players/284/1594.png",
     "email": "muztafiz8@yahoo.com",
-    "salary": "260000"
+    "salary": 260000
   }, {
     "id": 10,
     "name": "Liton Das",
     "image": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Liton-Das-CWC19.ashx",
     "email": "pbeake9@yelp.com",
-    "salary": "250000"
+    "salary": 250000
   }, {
     "id": 11,
     "name": "Shafiul Islam",
     "image": " https://resources.pulse.icc-cricket.com/players/champions-trophy-2017/284/499.png",
     "email": "kalbasinya@yahoo.com",
-    "salary": "210000"
+    "salary": 210000
   }, {
     "id": 12,
     "name": "Taskin Ahmed",
     "image": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Taskin-Ahmed-Ct17.ashx",
     "email": "dfurleyb@chron.com",
-    "salary": "225000"
+    "salary": 225000
   }, {
     "id": 13,
     "name": "Mohammad Mithun",
     "image": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Mohammad-Mithun-CWC19.ashx",
     "email": "clindenboimc@uiuc.edu",
-    "salary": "210000"
+    "salary": 210000
   }, {
     "id": 14,
     "name": "Mehedi Miraj",
     "image": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Mehedi-Hasan-CWC19.ashx",
     "email": "miraj@wikia.com",
-    "salary": "230000"
+    "salary": 230000
   }, {
     "id": 15,
     "name": "Mosaddek",
     "image": "https://resources.pulse.icc-cricket.com/players/284/1588.png",
     "email": "mosaddek@parallels.com",
-    "salary": "220000"
+    "salary": 220000
   }]
